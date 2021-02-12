@@ -1,4 +1,4 @@
-#Ark!
+# Ark!
 
 ---
 Ark is a program I wrote to deal with the difficulty of decompressing and compressing on the command line, with the various tools that exist.
